@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content:center;
     align-items: center;
-    margin-top: 185px;
+    margin-top: 110px;
 }
 
 .centro h1{
@@ -40,9 +40,19 @@
   }
   
 .bottone{
-    margin-bottom: 115px;
+    margin-bottom: 50px;
     margin-top: 20px;
     border-top: solid;
     border-top-color: white;
     display: flex;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    padding: 0;
+    margin: 0;
 }
